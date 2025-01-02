@@ -23,6 +23,8 @@ Automatically triggered on new uploads to the to-process folder.
 Transforms raw data into relational tables ready for analytics.
 Moves processed data to the appropriate S3 folder.
 
+![Project Archicture](https://github.com/user-attachments/assets/cfcf6efa-f9e6-4e15-86b6-f85b061830a6)
+
 ## Data Cataloging and Analytics:
 
 AWS Glue: Crawlers dynamically create a data catalog for the songs, artists, and albums tables.
